@@ -2,10 +2,10 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        String word1 = "intention";
-        String word2 = "execution";
+        ListNode l1 = new ListNode(1, new ListNode( 2, new ListNode(3)));
+        ListNode l2 = new ListNode(4, new ListNode( 5, new ListNode(6)));
 
-        System.out.println(EditDistance.minDistance(word1, word2));
+        System.out.println(AddTwoNumbers.addTwoNumbers(l1,l2));
 
     }
 }
