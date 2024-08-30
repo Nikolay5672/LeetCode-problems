@@ -2,10 +2,9 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        ListNode l1 = new ListNode(1, new ListNode( 2, new ListNode(3)));
-        ListNode l2 = new ListNode(4, new ListNode( 5, new ListNode(6)));
+        int[] nums  = {1,8,6,2,5,4,8,3,7};
 
-        System.out.println(AddTwoNumbers.addTwoNumbers(l1,l2));
+        System.out.println(ContainerWithMostWater.maxArea(nums));
 
     }
 }
