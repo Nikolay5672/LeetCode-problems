@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int[] nums  = {1,8,6,2,5,4,8,3,7};
 
-        System.out.println(ContainerWithMostWater.maxArea(nums));
+        System.out.println(ContainerWithMostWater.maxAreaOptimized(nums));
 
     }
 }
