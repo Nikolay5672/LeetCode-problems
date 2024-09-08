@@ -4,9 +4,9 @@ import java.util.Arrays;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        int[] nums = {1, 2, 2, 3, 3, 3};
+        int[] nums = {3, 2, 3,};
 
-        System.out.println(RemoveDuplicatesFromSortedArray.removeDuplicates(nums));
+        System.out.println(MajorityElement.majorityElement(nums));
         System.out.println(Arrays.toString(nums));
 
     }
