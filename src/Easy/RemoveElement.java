@@ -1,3 +1,5 @@
+package Easy;
+
 public class RemoveElement {
     public static int removeElement(int[] nums, int val) {
         int k = 0; // pointer to track the position of non-val elements

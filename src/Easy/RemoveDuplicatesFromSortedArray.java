@@ -1,3 +1,5 @@
+package Easy;
+
 public class RemoveDuplicatesFromSortedArray {
     public static int removeDuplicates(int[] nums) {
         // If the array is empty, return 0

@@ -1,3 +1,5 @@
+package Medium;
+
 public class ContainerWithMostWater {
 
     public static int maxArea(int[] height) {

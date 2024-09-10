@@ -1,3 +1,5 @@
+import Medium.JumpGame;
+
 import java.util.Arrays;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

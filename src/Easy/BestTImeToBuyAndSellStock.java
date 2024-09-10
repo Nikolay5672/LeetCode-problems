@@ -1,3 +1,5 @@
+package Easy;
+
 public class BestTImeToBuyAndSellStock {
     public static int maxProfit(int[] prices) {
         int maxProfit = 0;

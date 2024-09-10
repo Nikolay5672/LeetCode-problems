@@ -1,3 +1,5 @@
+package Easy;
+
 public class MergeSortedArrays {
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
         // Start filling nums1 from the last index.

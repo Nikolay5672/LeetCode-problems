@@ -1,3 +1,5 @@
+package Medium;
+
 public class StringToIntegerAtoi {
     public static int myAtoi(String s) {
         // Step 1: Ignore leading whitespaces
