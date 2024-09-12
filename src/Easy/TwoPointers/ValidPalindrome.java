@@ -8,7 +8,7 @@ public class ValidPalindrome {
                 filtered.append(Character.toLowerCase(c));
             }
         }
-        
+
         // Check if the filtered string is a palindrome
         int left = 0;
         int right = filtered.length() - 1;
