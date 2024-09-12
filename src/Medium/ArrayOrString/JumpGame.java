@@ -1,4 +1,4 @@
-package Medium;
+package Medium.ArrayOrString;
 
 public class JumpGame {
     public static boolean canJump(int[] nums) {

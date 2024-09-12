@@ -1,4 +1,4 @@
-package Medium;
+package Medium.ArrayOrString;
 
 public class StringToIntegerAtoi {
     public static int myAtoi(String s) {

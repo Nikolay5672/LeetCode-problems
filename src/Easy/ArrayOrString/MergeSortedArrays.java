@@ -1,4 +1,4 @@
-package Easy;
+package Easy.ArrayOrString;
 
 public class MergeSortedArrays {
     public static void merge(int[] nums1, int m, int[] nums2, int n) {

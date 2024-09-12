@@ -1,4 +1,4 @@
-package Medium;
+package Medium.ArrayOrString;
 
 public class GasStation {
     public int canCompleteCircuit(int[] gas, int[] cost) {

@@ -1,4 +1,4 @@
-package Medium;
+package Medium.ArrayOrString;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

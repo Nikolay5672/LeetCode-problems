@@ -1,4 +1,4 @@
-package Easy;
+package Easy.ArrayOrString;
 
 public class RemoveElement {
     public static int removeElement(int[] nums, int val) {

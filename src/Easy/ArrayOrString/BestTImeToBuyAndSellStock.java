@@ -1,4 +1,4 @@
-package Easy;
+package Easy.ArrayOrString;
 
 public class BestTImeToBuyAndSellStock {
     public static int maxProfit(int[] prices) {

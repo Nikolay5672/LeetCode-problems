@@ -1,4 +1,4 @@
-package Easy;
+package Easy.ArrayOrString;
 
 public class LengthOfLastWord {
     public static int lengthOfLastWord(String s) {

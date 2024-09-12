@@ -1,4 +1,4 @@
-package Medium;
+package Medium.ArrayOrString;
 
 public class ProductOfArrayExceptSelf {
     public static int[] productExceptSelf(int[] nums) {
